@@ -7,12 +7,19 @@ Poniżej zaprezentowane są poszczególne etapy analizy, których wykonanie jest
 Jako doświadczony Data Scientist zapewne znasz poszczególne kroki, które należy wykonać na tym etapie, więc nie będziemy ich tutaj wyszczególniać. W tej części masz do zdobycia 70 pkt.
 ### 2. EDA, czyli obszerna eksploracja danych. 
 Opisz wnioski płynące z każdego wykresu, swoje hipotezy poprzyj testami statystycznymi takimi jak np. t-test lub Chi-square.
+
 Dodatkowo odpowiedz na poniższe pytania:
+
 a. W jaki sposób wynik FICO wiąże się z prawdopodobieństwem spłacenia pożyczki przez pożyczkobiorcę?
+
 b. W jaki sposób wiek kredytowy wiąże się z prawdopodobieństwem niewykonania zobowiązania i czy ryzyko to jest niezależne lub związane z wynikiem FICO?
+
 c. W jaki sposób status kredytu hipotecznego na dom wiąże się z prawdopodobieństwem niewypłacalności?
+
 d. W jaki sposób roczny dochód wiąże się z prawdopodobieństwem niewykonania zobowiązania?
+
 e. W jaki sposób historia zatrudnienia wiąże się z prawdopodobieństwem niewykonania zobowiązania?
+
 f. Jak wielkość żądanej pożyczki jest powiązana z prawdopodobieństwem niewykonania zobowiązania?
 Na tym etapie możesz zdobyć 100 pkt.
 ### 3. Feature Engineering 
